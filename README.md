@@ -1,2 +1,2 @@
 # Hangman
-This is Hangman Game I implemented for one of my Online Courses. 
+This is a Hangman Game I implemented for one of my Online Courses. 
